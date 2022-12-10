@@ -10,7 +10,7 @@
   "author": "Veysel",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "image-downloader": "^3.4.2",
     "image-to-base64": "^2.0.1",
     "node-cron": "^2.0.3",
